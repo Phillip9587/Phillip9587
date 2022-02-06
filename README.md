@@ -6,6 +6,6 @@
 
 <p align="center">
 
- [GitHub](https://github.com/Phillip9587)  •  [LinkedIn](https://www.linkedin.com/in/phillip-barta-65829b180)
+ [Personal Website](https://pbrt.at)  •  [GitHub](https://github.com/Phillip9587)  •  [LinkedIn](https://www.linkedin.com/in/phillip-barta-65829b180)
  
 </p>
